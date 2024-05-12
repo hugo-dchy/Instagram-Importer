@@ -1,0 +1,8 @@
+name:  Instagram Importer
+description: Import Instagram Feeds.
+core: 8.x
+core_version_requirement: ^8 || ^9
+package: Media
+type: module
+dependencies:
+  - instagram_feeds
